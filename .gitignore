@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+.DS_Store
+build/
+*.bak
+aias_submission_final.zip
+submission/main_aias.pdf
